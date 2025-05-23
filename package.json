@@ -10,6 +10,21 @@
     "@llmindset/mcp-hfspace": "^0.5.1",
     "dotenv": "^16.0.0"
   },
-  "author": "",
+  "author": "Trae AI <trae@example.com>",
+  "homepage": "https://github.com/trae-ai/wechat-moments-assistant",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trae-ai/wechat-moments-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trae-ai/wechat-moments-assistant/issues"
+  },
+  "keywords": [
+    "wechat",
+    "moments",
+    "real-estate",
+    "marketing",
+    "assistant"
+  ],
   "license": "ISC"
 }

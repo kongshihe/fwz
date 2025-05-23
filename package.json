@@ -11,13 +11,13 @@
     "dotenv": "^16.0.0"
   },
   "author": "Trae AI <trae@example.com>",
-  "homepage": "https://github.com/trae-ai/wechat-moments-assistant",
+  "homepage": "https://github.com/kongshihe/fwz",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trae-ai/wechat-moments-assistant.git"
+    "url": "git+https://github.com/kongshihe/fwz.git"
   },
   "bugs": {
-    "url": "https://github.com/trae-ai/wechat-moments-assistant/issues"
+    "url": "https://github.com/kongshihe/fwz/issues"
   },
   "keywords": [
     "wechat",

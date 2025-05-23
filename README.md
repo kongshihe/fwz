@@ -17,8 +17,8 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/yourusername/wechat-moments-assistant.git
-cd wechat-moments-assistant
+git clone https://github.com/kongshihe/fwz.git
+cd fwz
 ```
 
 2. 安装依赖：
